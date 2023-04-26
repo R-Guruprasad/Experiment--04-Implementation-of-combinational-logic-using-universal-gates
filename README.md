@@ -22,7 +22,7 @@ The input and output variables are allocated with letter symbols. The exact trut
 ## Program:
 ```
 /*
-Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
+Program to verify the expressions in quartus using Verilog programming.
 Developed by: R Guruprasad
 RegisterNumber:  212222240033
 */
