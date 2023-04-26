@@ -2,9 +2,9 @@
 Implementation of combinational logic using universal-gates
  
 ## AIM:
-To implement the given logic function using NAND and NOR gates and to verify its operation in Quartus using Verilog programming.
- F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
-F2=xy’z+x’y’z+w’xy+wx’y+wxy
+To verify the following expressions in Quartus using Verilog programming.
+a) F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
+b) F2=xy’z+x’y’z+w’xy+wx’y+wxy
  
  
  
