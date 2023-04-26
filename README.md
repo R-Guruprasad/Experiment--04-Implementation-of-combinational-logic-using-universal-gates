@@ -20,11 +20,13 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 The input and output variables are allocated with letter symbols. The exact truth table that defines the required relationships between inputs and outputs is derived. The simplified Boolean function is obtained from each output. The logic diagram is drawn.
 
 ## Program:
+```
 /*
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
 Developed by: R Guruprasad
 RegisterNumber:  212222240033
 */
+```
 ```
 module combinational(a,b,c,d,f1);
 input a,b,c,d;
